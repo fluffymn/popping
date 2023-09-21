@@ -165,12 +165,6 @@
 
 <br />
 
-## 📚 팀 ASHE 개발 일지
-
-- [팔로잉-팔로워 구현하기](https://quiet-unicorn-5ea.notion.site/d76750ecd5554e728f09120b4f3f4024?pvs=4)
-
-<br />
-
 ## 👩‍💻 팀원 소개
 
   <table align="center">
