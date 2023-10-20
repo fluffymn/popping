@@ -179,9 +179,9 @@
       <td align="center">박정은</td>
     </tr>
     <tr>
-      <td align="center"><a href="https://github.com/HyewonKkang" target="_blank">@jxixeun</a></td>
-      <td align="center"><a href="https://github.com/yscriuf" target="_blank" width="160">@fluffymn</a></td>
-      <td align="center"><a href="https://github.com/LouiMinister" target="_blank">@jungeunevepark</a></td>
+      <td align="center"><a href="https://github.com/jxixeun" target="_blank">@jxixeun</a></td>
+      <td align="center"><a href="https://github.com/fluffymn" target="_blank" width="160">@fluffymn</a></td>
+      <td align="center"><a href="https://github.com/jungeunevepark" target="_blank">@jungeunevepark</a></td>
     </tr>
     <tr>
       <td align="center"><img src="https://avatars.githubusercontent.com/u/77910839?s=96&v=4" width="160"></td>
